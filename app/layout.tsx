@@ -1,5 +1,6 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
+import '@progress/kendo-theme-default/dist/all.css';
 
 export default function RootLayout({
   children,
